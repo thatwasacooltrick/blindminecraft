@@ -1,0 +1,7 @@
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\obj\Debug\BlindMinecraft.csprojAssemblyReference.cache
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\obj\Debug\BlindMinecraft.csproj.CoreCompileInputs.cache
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\bin\Debug\BlindMinecraft.exe.config
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\bin\Debug\BlindMinecraft.exe
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\bin\Debug\BlindMinecraft.pdb
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\obj\Debug\BlindMinecraft.exe
+C:\Users\thatw\source\repos\BlindMinecraft\BlindMinecraft\obj\Debug\BlindMinecraft.pdb
